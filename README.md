@@ -1,1 +1,2 @@
-# mergesortThreads
+Mergesort implementation using pthreads
+
